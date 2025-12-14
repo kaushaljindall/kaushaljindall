@@ -56,11 +56,11 @@
 <br/>
 
 <!-- Snake Animation Section -->
-<div align="center">
+<!-- <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <br/>
   <img src="https://github.com/kaushaljindall/kaushaljindall/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
-</div>
+</div> -->
 
 <br/>
 
@@ -87,5 +87,6 @@
 <div align="center">
   <sub>Generated with ❤️ by Kaushal Jindal.</sub>
 </div>
+
 
 
