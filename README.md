@@ -9,7 +9,7 @@
       <br/>
       <!-- Dynamic Typing Text -->
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F6CF5&width=435&lines=I+am+a+Full+Stack+Developer;I+Craft+Aesthetic+User+Interfaces;I+Love+Building+Scalable+Systems" alt="Typing SVG" />
+        <img src="https://capsule-render.vercel.app/api?type=transparent&fontAlign=0&fontAlignY=50&height=50&section=header&text=Full%20Stack%20Developer%20&fontSize=30&fontColor=gradient&animation=fadeIn&stroke=000000&strokeWidth=1" alt="Full Stack Developer"" alt="Typing SVG" />
       </a>
       <br/><br/>
       Displaying my passion for engineering and design through code.
@@ -87,6 +87,7 @@
 <div align="center">
   <sub>Generated with ❤️ by Kaushal Jindal.</sub>
 </div>
+
 
 
 
