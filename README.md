@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <div align="center">
-  <img src="images/header.png" width="100%" alt="Header" />
+  <img src="header.png" width="100%" alt="Header" />
 </div>
 
 <br/>
@@ -96,3 +96,4 @@
 <div align="center">
   <sub>Generated with ❤️ by Kaushal Jindal.</sub>
 </div>
+
