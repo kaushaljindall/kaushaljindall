@@ -1,12 +1,3 @@
-<!-- 
-  Hi there! This README was generated for you.
-  IMPORTANT: Replace [your-username] with your actual GitHub username!
--->
-
-<!-- Header -->
-<div align="center">
-  <img src="header.png" width="100%" alt="Header" />
-</div>
 
 <br/>
 
@@ -96,4 +87,5 @@
 <div align="center">
   <sub>Generated with ❤️ by Kaushal Jindal.</sub>
 </div>
+
 
