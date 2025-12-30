@@ -21,24 +21,6 @@
   </tr>
 </table>
 
-<br/>
-
-<!-- Stats Section -->
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <br/>
-  <p>
-    <a href="https://github.com/kaushaljindall">
-      <img src="https://github-readme-stats.vercel.app/api?username=kaushaljindall&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
-    </a>
-    <a href="https://github.com/kaushaljindall">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaljindall&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&langs_count=8" height="180" alt="languages graph" />
-    </a>
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushaljindall&theme=catppuccin_mocha&hide_border=true&background=00000000" height="150" alt="streak graph" />
-  </p>
-</div>
 
 <br/>
 
@@ -87,6 +69,7 @@
 <div align="center">
   <sub>Generated with ❤️ by Kaushal Jindal.</sub>
 </div>
+
 
 
 
