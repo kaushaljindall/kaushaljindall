@@ -340,13 +340,7 @@ const kaushallJindal = {
 
 <div align="center">
 
-### 💬 *"Code is poetry written in logic"*
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kaushaljindall&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile views" />
-
-<br/> 
 
 **⭐ From [Kaushal Jindal](https://github.com/kaushaljindall) | Made with 💜 and ☕**
 
@@ -356,3 +350,4 @@ const kaushallJindal = {
 
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" />
+
