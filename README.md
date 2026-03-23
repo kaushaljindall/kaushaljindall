@@ -280,7 +280,7 @@ Complex challenges? **Bring it on.**
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 ```javascript
 const kaushallJindal = {
@@ -305,7 +305,7 @@ const kaushallJindal = {
 };
 ```
 
-</div>
+</div> -->
 
 
 
