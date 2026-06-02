@@ -3,14 +3,14 @@
 <!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=Kaushal%20Jindal&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
 
-<br/>
+<!-- <br/> -->
 
 <!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=600&height=100&lines=Building+the+Future+with+Code;AI+%2B+Full-Stack+Development;Turning+Ideas+into+Reality" alt="Typing SVG" />
-</a>
+</a> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Social Badges with Glow Effect -->
 <p>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://kaushaljindal.netlify.app">
+  <a href="https://kaushaljindal.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f1f1f" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<br/>
+<!-- <br/> -->
 
 </div>
 
@@ -151,11 +151,11 @@ Developer:
 </table> -->
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=2&section=header" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=2&section=header" />
 
-<div align="center">
+<div align="center"> -->
 
-## 🛠️ Technical Arsenal
+<!-- ## 🛠️ Technical Arsenal
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Tech Icon"> **Powerful Tech Stack** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Tech Icon">
 
@@ -268,15 +268,15 @@ Complex challenges? **Bring it on.**
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=2&section=header" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=2&section=header" />
 
-<div align="center">
+<div align="center"> -->
 
-## 💡 Current Focus
+<!-- ## 💡 Current Focus -->
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" alt="Learning Icon">
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" alt="Learning Icon">
 
-</div>
+</div> -->
 
 <br/>
 
@@ -309,13 +309,13 @@ const kaushallJindal = {
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=2&section=header" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=2&section=header" /> -->
 
 <div align="center">
 
 ## 📫 Let's Connect!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px" alt="Wave Hand">
+<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px" alt="Wave Hand"> -->
 
 **I'm always excited to collaborate on innovative projects!**
 
@@ -329,16 +329,12 @@ const kaushallJindal = {
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-jindal)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaushaljindal.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaushaljindal.in)
 
 </div>
 
-<br/>
 
-
----
-
-<div align="center">
+<!-- <div align="center">
 
 
 
@@ -346,7 +342,7 @@ const kaushallJindal = {
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" />
