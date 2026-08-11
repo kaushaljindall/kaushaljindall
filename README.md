@@ -1,7 +1,6 @@
 <div align="center">
 <H1> Hi 👋 I'm Kaushal Jindal</H1>
 
-**Full Stack Developer • AI Engineering Student**
 
 Building scalable applications powered by AI.
 
