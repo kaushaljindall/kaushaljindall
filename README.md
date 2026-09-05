@@ -19,16 +19,20 @@ Building scalable applications powered by AI.
 </div>
 
 ---
+<div align="center">
 
-## 💻 Tech Stack
+<h3>🔗 Tech I Use</h3>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,docker,git,github,vscode,tailwind,tensorflow,pytorch&perline=9"/>
+<p>
+Python · Java · JavaScript · TypeScript · TensorFlow · LangGraph<br>
+FastAPI · Node.js · React · Next.js · MongoDB · PostgreSQL · Redis<br>
+Docker · Git · GitHub · Tailwind CSS · Cloud & DevOps
+</p>
+</div>
+<div align="center">
+<h3>🌱 Currently Learning</h3>
 
----
-
-## 🌱 Currently Learning
-
-- AI Agents
-- LangGraph
-- System Design
-- Cloud & DevOps
+<p>
+AI Agents · LangGraph · System Design · Cloud & DevOps
+</p>
+</div> 
